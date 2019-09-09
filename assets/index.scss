@@ -45,7 +45,7 @@
 
       flex-shrink: 0;
       min-width: 2rem - $skbar-gap * 2; // min gap between LSK & RSK = 2rem
-      text-transform: uppercase;
+      text-transform: none;
     }
 
     &:last-child {
